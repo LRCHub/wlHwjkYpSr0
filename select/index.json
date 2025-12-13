@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "WE GO UP",
+  "base_artist": "BABYMONSTER",
+  "createdAt": "2025-12-13T08:26:55.175020Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "As We Go Up, We Go Down",
+      "artist": "Guided By Voices",
+      "has_synced": false,
+      "path": "select/01_As_We_Go_Up,_We_Go_Down_Guided_By_Voices.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "We Go Up (feat. Fivio Foreign)",
+      "artist": "Nicki Minaj feat. Fivio Foreign",
+      "has_synced": true,
+      "path": "select/02_We_Go_Up_(feat._Fivio_Foreign)_Nicki_Minaj_feat._Fivio_Foreign.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "We Go Up (feat. Fivio Foreign)",
+      "artist": "Nicki Minaj, Fivio Foreign",
+      "has_synced": true,
+      "path": "select/03_We_Go_Up_(feat._Fivio_Foreign)_Nicki_Minaj,_Fivio_Foreign.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "We Go Up - Instrumental",
+      "artist": "Nicki Minaj",
+      "has_synced": true,
+      "path": "select/04_We_Go_Up_-_Instrumental_Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "As We Go Up, We Go Down",
+      "artist": "Guided By Voices",
+      "has_synced": true,
+      "path": "select/05_As_We_Go_Up,_We_Go_Down_Guided_By_Voices.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "We Go Up (Da Tweekaz Remix) [Da Tweekaz Remix]",
+      "artist": "LNY TNZ",
+      "has_synced": true,
+      "path": "select/06_We_Go_Up_(Da_Tweekaz_Remix)_[Da_Tweekaz_Remix]_LNY_TNZ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "We Go Up (Da Tweekaz Remix)",
+      "artist": "LNY TNZ",
+      "has_synced": true,
+      "path": "select/07_We_Go_Up_(Da_Tweekaz_Remix)_LNY_TNZ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "We Go Up",
+      "artist": "NCT DREAM",
+      "has_synced": true,
+      "path": "select/08_We_Go_Up_NCT_DREAM.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "We Go Up - Chinese Version",
+      "artist": "NCT DREAM",
+      "has_synced": true,
+      "path": "select/09_We_Go_Up_-_Chinese_Version_NCT_DREAM.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "We Go Up (Chinese Version)",
+      "artist": "NCT",
+      "has_synced": true,
+      "path": "select/10_We_Go_Up_(Chinese_Version)_NCT.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "We Go Up (Da Tweekaz remix)",
+      "artist": "LNY TNZ",
+      "has_synced": true,
+      "path": "select/11_We_Go_Up_(Da_Tweekaz_remix)_LNY_TNZ.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "We Go Up",
+      "artist": "Mogli",
+      "has_synced": true,
+      "path": "select/12_We_Go_Up_Mogli.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "We Go Up (靑春接力) (Chinese Ver.)",
+      "artist": "NCT DREAM",
+      "has_synced": true,
+      "path": "select/13_We_Go_Up_(靑春接力)_(Chinese_Ver.)_NCT_DREAM.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "We Go Up",
+      "artist": "NCT DREAM",
+      "has_synced": true,
+      "path": "select/14_We_Go_Up_NCT_DREAM.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "We Go Up (青春接力)",
+      "artist": "NCT DREAM",
+      "has_synced": true,
+      "path": "select/15_We_Go_Up_(青春接力)_NCT_DREAM.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "We Go Up (feat. Fivio Foreign) - Extended",
+      "artist": "Nicki Minaj feat. Fivio Foreign",
+      "has_synced": true,
+      "path": "select/16_We_Go_Up_(feat._Fivio_Foreign)_-_Extended_Nicki_Minaj_feat._Fivio_Foreign.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "We Go Up (feat. Fivio Foreign) - Extended",
+      "artist": "Nicki Minaj/Fivio Foreign",
+      "has_synced": true,
+      "path": "select/17_We_Go_Up_(feat._Fivio_Foreign)_-_Extended_Nicki_Minaj_Fivio_Foreign.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "WE GO UP",
+      "artist": "BABYMONSTER",
+      "has_synced": false,
+      "path": "select/pl_01_WE_GO_UP_BABYMONSTER.txt"
+    }
+  ]
+}
